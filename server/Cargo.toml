@@ -1,0 +1,8 @@
+[package]
+name = "gomind_server"
+version = "0.1.0"
+authors = ["Alex Sanchez-Stern <alex.sanchezstern@hotmail.com>"]
+
+[dependencies]
+websocket = "0.14.0"
+rand = "0.3"
